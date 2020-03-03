@@ -1,0 +1,14 @@
+.app-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input-wrapper {
+  margin: 30px 0;
+}
+
+.input-wrapper input {
+  min-width: 200px;
+}

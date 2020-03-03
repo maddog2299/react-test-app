@@ -1,0 +1,16 @@
+.word-wrapper {
+    background: orange;
+    border: 2px dashed black;
+    color: black;
+    display: block;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+    width: fit-content;
+}
+.inline {
+    display: inline-flex;
+    margin: 0 10px;
+    justify-content: center;
+    align-items: center;
+}
